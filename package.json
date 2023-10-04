@@ -1,0 +1,19 @@
+{
+  "name": "fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witcher077/Ractangle_color_change.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witcher077/Ractangle_color_change/issues"
+  },
+  "homepage": "https://github.com/witcher077/Ractangle_color_change#readme"
+}
